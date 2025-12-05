@@ -17,16 +17,6 @@ R: Programar em Python, Java e C, Desenvolver aplicações backend, Criar interf
  Que tipo de conteúdo você consome com frequência? Isso pode indicar interesse e habilidade.
 R: Conteúdos sobre backend, Vídeos e artigos sobre Python, Java e C, Tutoriais de desenvolvimento web, Materiais sobre boas práticas de programação e  Conteúdos sobre arquitetura, APIs e servidores
 
----  Como a IA pode ajudar na Etapa 1
-
---  A inteligência artificial pode ser uma grande aliada para te ajudar a identificar suas habilidades:
--  Você pode usar o Microsoft Copilot ou outras IAs para responder perguntas como:
- "Quais habilidades estão relacionadas a organizar eventos?"
- "Quais habilidades eu posso ter se gosto de ensinar?"
- "Me ajude a listar habilidades que uso no meu dia a dia."
- Ferramentas de IA também podem analisar seu currículo, perfil do LinkedIn ou até suas 
-postagens nas redes sociais para sugerir habilidades que você talvez nem tenha percebido.
-
 -- Etapa 2: Cruzamento com 
 -- Necessidades do Mercado
  - Aqui você vai analisar cada habilidade e perguntar:
@@ -48,13 +38,3 @@ R: Pequenas empresas, startups, profissionais autônomos, lojas locais, agência
 R: Sim. Desenvolvimento backend, criação de sites e automação são serviços muito comuns em plataformas de freelas e no mercado em geral.
  Existe algum nicho onde essa habilidade é valorizada?
 R: Sim. Backend é valorizado em startups e empresas de tecnologia; Python em automação; Java em sistemas corporativos; C em IoT e sistemas embarcados; HTML/CSS/JS em negócios locais e marketing digital.
-
----  Como a IA pode ajudar na Etapa 2
-
---  A IA pode te ajudar a entender o mercado:
-- Você pode perguntar ao ChatGPT:
- "Quais serviços estão em alta na área de eventos?"
- "Quais habilidades são mais procuradas por pequenas empresas?"
- "Me dê ideias de como usar minha habilidade de organização para ganhar dinheiro."
- Ferramentas como Google Trends, LinkedIn Insights ou IA de análise de mercado podem 
-mostrar tendências e demandas atuais.
