@@ -1,4 +1,4 @@
-NOTA: O layotu da caixa de texto nao estava permitindo quebra de  linha, então, resolvi transcrever as respostas aqui.
+NOTA: O layout da caixa de texto não estava permitindo quebra de linha, então, resolvi transcrever as respostas aqui.
 
 --- SkillMap DIO 
 
